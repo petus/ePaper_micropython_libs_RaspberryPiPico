@@ -7,4 +7,6 @@ Dominik Kapusta: micropython-waveshare-epd - https://github.com/ayoy/micropython
 
 Mike Causer: micropython-waveshare-epaper - https://github.com/mcauser/micropython-waveshare-epaper
 
+The libs are managed by www.chiptron.cz
+
 ![Picture of Raspberry Pi Pico and 2.9 BWR ePaper](https://github.com/petus/ePaper_micropython_libs_RaspberryPiPico/blob/main/ePaper_2.9_BWR.jpg)
